@@ -2,7 +2,7 @@
 <h3 align="center">A passionate C# Junior Developer from Varna, Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/stilianstefanov/stilianstefanov/blob/main/coding-person.gif">
 <p>- 🌱 I’m currently learning **Web Development at SoftUni**</p>
-<p>- 📫 How to reach me: https://www.linkedin.com/in/stilian-stefanov-07599724b/</p>
+<p>- 📫 Reach me: https://www.linkedin.com/in/stilian-stefanov-07599724b/</p>
 
 
 
