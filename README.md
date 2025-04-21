@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stilian Stefanov</h1>
-<h3 align="center">A passionate Junior Web Developer from Varna, Bulgaria</h3>
+<h3 align="center">A passionate Software Developer from Varna, Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/stilianstefanov/stilianstefanov/blob/main/coding-person.gif">
-<p align="left">- 🌱 Junior Full-Stack Developer at INDEAVR (.NET with React)</p>
+<p align="left">- 🌱 Full-Stack Developer at INDEAVR (.NET with React)</p>
 <p align="left">- 🎓 SoftUni Graduate - .NET Developer
 <p align="left">- 📫 https://www.linkedin.com/in/stilian-stefanov-07599724b/</p>
 
